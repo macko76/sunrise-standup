@@ -4,19 +4,19 @@
   "private": true,
   "proxy": "http://localhost:7071",
   "dependencies": {
-    "@azure/storage-blob": "^12.1.1",
+    "@azure/storage-blob": "^12.26.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "azure-maps-control": "^2.0.25",
     "bulma": "^0.8.1",
     "microsoft-cognitiveservices-speech-sdk": "^1.11.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^9.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-image-fallback": "^8.0.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "videojs-record": "^3.11.0"
   },
   "scripts": {
@@ -44,6 +44,6 @@
     "@playwright/test": "^0.191.0",
     "dotenv-webpack": "^1.7.0",
     "react-app-rewired": "^2.1.5",
-    "wait-on": "^5.2.1"
+    "wait-on": "^8.0.2"
   }
 }
